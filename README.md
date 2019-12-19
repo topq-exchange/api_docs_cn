@@ -45,7 +45,7 @@
 > 域名地址: https://www.topliq.com
 
 * [REST API 请求说明](https://github.com/topq-exchange/api_docs_cn/wiki/REST-API-%E8%AF%B7%E6%B1%82%E8%AF%B4%E6%98%8E)
-* [签名认证(重要，请仔细阅读)](https://github.com/bw-exchange/api_docs_cn/wiki/REST-API-%E7%AD%BE%E5%90%8D%E8%AE%A4%E8%AF%81(%E9%87%8D%E8%A6%81%EF%BC%8C%E8%AF%B7%E4%BB%94%E7%BB%86%E9%98%85%E8%AF%BB))
-* [API Reference](https://github.com/bw-exchange/api_docs_cn/wiki/REST-API-Reference)
-* [错误代码](https://github.com/bw-exchange/api_docs_cn/wiki/REST-API--%E9%94%99%E8%AF%AF%E7%A0%81)
+* [签名认证(重要，请仔细阅读)](https://github.com/topq-exchange/api_docs_cn/wiki/REST-API-%E7%AD%BE%E5%90%8D%E8%AE%A4%E8%AF%81(%E9%87%8D%E8%A6%81%EF%BC%8C%E8%AF%B7%E4%BB%94%E7%BB%86%E9%98%85%E8%AF%BB))
+* [API Reference](https://github.com/topq-exchange/api_docs_cn/wiki/REST-API-Reference)
+* [错误代码](https://github.com/topq-exchange/api_docs_cn/wiki/REST-API--%E9%94%99%E8%AF%AF%E7%A0%81)
 * 代码示例： [Nodejs](https://github.com/topq-exchange/api_docs_cn/blob/master/nodejsDemo/restApiDemo.js)
